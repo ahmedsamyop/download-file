@@ -1,2 +1,3 @@
 # download-file
-Paste url of image, video, or pdf to download. this tool is made with  javascript.
+Download File App creaded by HTML , Css and Javascript
+Paste url of image, video, or pdf to download
